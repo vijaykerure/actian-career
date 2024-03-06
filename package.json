@@ -1,0 +1,30 @@
+{
+  "name": "actian-career",
+  "version": "1.0.0",
+  "description": "Actian Career - HCL Node.js Assignment",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vijaykerure/actian-career.git"
+  },
+  "keywords": [
+    "HCL",
+    "assignment"
+  ],
+  "author": "Vijay Kerure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaykerure/actian-career/issues"
+  },
+  "homepage": "https://github.com/vijaykerure/actian-career#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.3",
+    "node-fetch": "^3.3.2"
+  }
+}
